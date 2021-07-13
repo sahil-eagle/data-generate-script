@@ -1,3 +1,25 @@
+# sk: CustomerDetails
+
+## Pseudocode
+
+```
+
+Generate data from https://www.generatedata.com
+
+Read the customer_details.json file
+initialize data in it to a variable, customerObj
+customerObj will be an array of objects
+
+loop through the customerObj
+    loop through each objects of customerObj
+        checking if any key of current object == "pk"
+            add email of current object to the suffix of pk
+
+```
+
+## Raw JSON
+
+```
 [
 	{
 	  "pk": "User#",
@@ -1300,3 +1322,4 @@
 	  "signUpDate": "2021-02-19T23:40:10-08:00"
 	}
   ]
+```

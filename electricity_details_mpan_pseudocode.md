@@ -1,3 +1,47 @@
+# sk: ElectricityDetails#MPAN
+
+## Pseudocode
+
+```
+After we have the data of customerObj, emeterObj, acquisitionObj,
+Read the electricity_details_mpan.json file
+initialize data in it to a variable, electricityObj
+
+for collecting mpan and meterTypes from emeterObj, 
+
+loop through emeterObj
+    loop through each objects of emeterObj
+        if key == "mpan"
+            push into tempMpan[]
+        else if key == "meterType"
+            push into tempMeterType[]
+
+
+for collecting acquisitionSource from acquisitionObj
+
+loop through acquisitionObj
+    loop through each objects of acquisitionObj
+        if key == "acquisitionSource"
+            push into tempAcquisition[]
+
+loop through electricityObj
+    loop through each objects of electricityObj
+        if key == "pk"
+            add email as suffix from customerObj
+        else if key == "sk"
+            add add mpan as suffix from emeterObj
+        else if key == "meterType"
+            add meterType from emeterObj
+        else if key == "mpan"
+            add mpan from emeterObj
+        else if key == "acquisitionSource"
+            add acquisitionSource from acquisitionObj
+
+```
+
+## Raw JSON
+
+```
 [
 	{
 	  "pk": "User#",
@@ -1800,3 +1844,4 @@
 	  "phoneNumber": "0808 960 5863"
 	}
   ]
+```
