@@ -1,0 +1,38 @@
+// Load the AWS SDK for Node.js
+const AWS = require('aws-sdk');
+const attr = require('dynamodb-data-types').AttributeValue;
+// Set the region
+var credentials = new AWS.SharedIniFileCredentials({profile: 'eagle'});
+AWS.config.credentials = credentials;
+AWS.config.update({ region: 'eu-west-2' });
+let data = require(process.argv[2]);
+// Create DynamoDB service object
+var ddb = new AWS.DynamoDB({ apiVersion: '2012-08-10'});
+let items = [];
+for (let index = 0; index < data.length; index++) {
+    const element = data[index];
+    // Format element in the correct format for DynamoDB's API 
+    let item = {
+        PutRequest: {
+            Item: attr.wrap(element)
+        }
+    };
+    items.push(item);
+
+    if (items.length == 5 || index == data.length-1) {
+        let params = {
+            RequestItems: {
+            }
+        };
+        params["RequestItems"][process.argv[3]] = items;
+        // Async function call to write the items to the DB 
+        ddb.batchWriteItem(params, function (err, data) {
+            if (err) {
+                console.log("Error", err);
+            } else {
+                console.log("Success", data);
+            }
+        });
+        items = [];
+    }
+}

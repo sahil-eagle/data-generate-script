@@ -9,15 +9,15 @@
     "supplyStartDate": "2021-05-08T01:44:10-07:00",
     "address": "Ap #474-5746 Risus. Road",
     "addressPostcode": "P6 0NB",
-    "addressState": "DF",
-    "addressCity": "Lockerbie",
     "contractSignedDate": "2021-02-14T13:21:59-08:00",
     "tariffId": "LTG24C4",
     "openingMeterRead": "8804",
     "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0845 46 40",
     "gsi1Pk": "mpan#3810",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-05-08T01:44:10-07:00"
   },
   {
     "pk": "User#nec.luctus.felis@atarcu.net",
@@ -29,15 +29,15 @@
     "supplyStartDate": "2021-03-23T04:51:21-07:00",
     "address": "3979 Magna. Avenue",
     "addressPostcode": "BY3B 9WS",
-    "addressState": "Herefordshire",
-    "addressCity": "Leominster",
     "contractSignedDate": "2021-02-27T09:47:00-08:00",
     "tariffId": "EJB64L6",
     "openingMeterRead": "2155",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0845 46 46",
     "gsi1Pk": "mpan#8438",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-03-23T04:51:21-07:00"
   },
   {
     "pk": "User#natoque.penatibus@sitametdiam.co.uk",
@@ -49,15 +49,15 @@
     "supplyStartDate": "2021-02-15T02:57:55-08:00",
     "address": "Ap #181-5565 Cursus Ave",
     "addressPostcode": "A8A 6BC",
-    "addressState": "Angus",
-    "addressCity": "Carnoustie",
     "contractSignedDate": "2021-02-08T04:24:38-08:00",
     "tariffId": "VFL23K6",
     "openingMeterRead": "4255",
     "acquisitionSource": "offlineCampaign",
     "phoneNumber": "(016977) 7404",
     "gsi1Pk": "mpan#3652",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-02-15T02:57:55-08:00"
   },
   {
     "pk": "User#odio@bibendumDonecfelis.ca",
@@ -69,15 +69,15 @@
     "supplyStartDate": "2021-02-09T19:30:22-08:00",
     "address": "P.O. Box 877, 7539 Magnis Av.",
     "addressPostcode": "OR4 0YO",
-    "addressState": "Hampshire",
-    "addressCity": "Portsmouth",
     "contractSignedDate": "2021-03-31T18:24:37-07:00",
     "tariffId": "CTT36P4",
     "openingMeterRead": "4024",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "(024) 1440 7309",
     "gsi1Pk": "mpan#4156",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-02-09T19:30:22-08:00"
   },
   {
     "pk": "User#pede.sagittis@cursusaenim.com",
@@ -89,15 +89,15 @@
     "supplyStartDate": "2021-02-22T12:11:15-08:00",
     "address": "P.O. Box 703, 7370 Vel Road",
     "addressPostcode": "RV6Q 8FV",
-    "addressState": "Lincolnshire",
-    "addressCity": "Skegness",
     "contractSignedDate": "2021-01-22T21:45:21-08:00",
     "tariffId": "ILK51Z7",
     "openingMeterRead": "8405",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0809 131 9442",
     "gsi1Pk": "mpan#7535",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-02-22T12:11:15-08:00"
   },
   {
     "pk": "User#risus.at.fringilla@sit.edu",
@@ -109,15 +109,15 @@
     "supplyStartDate": "2021-04-01T22:13:03-07:00",
     "address": "Ap #522-4211 Donec Rd.",
     "addressPostcode": "M6 2VN",
-    "addressState": "Dunbartonshire",
-    "addressCity": "Alexandria",
     "contractSignedDate": "2021-06-03T08:31:38-07:00",
     "tariffId": "FOX63M2",
     "openingMeterRead": "2123",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "07624 406508",
     "gsi1Pk": "mpan#5595",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-04-01T22:13:03-07:00"
   },
   {
     "pk": "User#venenatis.lacus.Etiam@purusgravidasagittis.org",
@@ -129,15 +129,15 @@
     "supplyStartDate": "2021-03-30T18:03:26-07:00",
     "address": "8935 Magna Road",
     "addressPostcode": "MU79 9CA",
-    "addressState": "Northamptonshire",
-    "addressCity": "Corby",
     "contractSignedDate": "2021-01-05T15:08:10-08:00",
     "tariffId": "PFD41N8",
     "openingMeterRead": "5828",
     "acquisitionSource": "googleSearch",
     "phoneNumber": "0800 383697",
     "gsi1Pk": "mpan#6379",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-03-30T18:03:26-07:00"
   },
   {
     "pk": "User#pulvinar.arcu@est.com",
@@ -149,15 +149,15 @@
     "supplyStartDate": "2021-06-29T17:54:02-07:00",
     "address": "P.O. Box 643, 4252 Proin Rd.",
     "addressPostcode": "MP98 6TE",
-    "addressState": "Caithness",
-    "addressCity": "Halkirk",
     "contractSignedDate": "2021-03-28T22:46:04-07:00",
     "tariffId": "JCN96H1",
     "openingMeterRead": "4253",
     "acquisitionSource": "googleAds",
     "phoneNumber": "0800 971666",
     "gsi1Pk": "mpan#2066",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-06-29T17:54:02-07:00"
   },
   {
     "pk": "User#lobortis@justoeuarcu.ca",
@@ -169,15 +169,15 @@
     "supplyStartDate": "2021-02-22T01:19:53-08:00",
     "address": "8492 Magna Ave",
     "addressPostcode": "YH3M 4UI",
-    "addressState": "NT",
-    "addressCity": "Northampton",
     "contractSignedDate": "2021-04-05T09:54:53-07:00",
     "tariffId": "ETT98I2",
     "openingMeterRead": "4940",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "076 3602 0995",
     "gsi1Pk": "mpan#5611",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-02-22T01:19:53-08:00"
   },
   {
     "pk": "User#auctor.ullamcorper.nisl@metusfacilisislorem.ca",
@@ -189,15 +189,15 @@
     "supplyStartDate": "2021-04-09T15:53:55-07:00",
     "address": "P.O. Box 201, 8132 Eros. St.",
     "addressPostcode": "HE8R 7OR",
-    "addressState": "DN",
-    "addressCity": "Alexandria",
     "contractSignedDate": "2021-06-05T17:05:05-07:00",
     "tariffId": "YJK37L3",
     "openingMeterRead": "7155",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "0812 933 7362",
     "gsi1Pk": "mpan#4744",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-04-09T15:53:55-07:00"
   },
   {
     "pk": "User#amet.luctus.vulputate@Innecorci.edu",
@@ -209,15 +209,15 @@
     "supplyStartDate": "2021-05-11T22:58:58-07:00",
     "address": "P.O. Box 741, 774 Neque Rd.",
     "addressPostcode": "OF6 6BG",
-    "addressState": "Orkney",
-    "addressCity": "Kirkwall",
     "contractSignedDate": "2021-01-28T18:33:48-08:00",
     "tariffId": "QTH22H9",
     "openingMeterRead": "9655",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "0800 727549",
     "gsi1Pk": "mpan#3234",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-05-11T22:58:58-07:00"
   },
   {
     "pk": "User#enim.diam.vel@eratnonummyultricies.ca",
@@ -229,15 +229,15 @@
     "supplyStartDate": "2021-05-23T11:52:45-07:00",
     "address": "9808 Nec St.",
     "addressPostcode": "X1 4GQ",
-    "addressState": "BD",
-    "addressCity": "Luton",
     "contractSignedDate": "2021-05-19T14:28:42-07:00",
     "tariffId": "YUX67H2",
     "openingMeterRead": "5972",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(0131) 794 3935",
     "gsi1Pk": "mpan#1398",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-05-23T11:52:45-07:00"
   },
   {
     "pk": "User#Donec.vitae@Aliquam.net",
@@ -249,15 +249,15 @@
     "supplyStartDate": "2021-04-23T14:15:25-07:00",
     "address": "5479 Fusce Avenue",
     "addressPostcode": "J8 0OE",
-    "addressState": "Northumberland",
-    "addressCity": "Berwick-upon-Tweed",
     "contractSignedDate": "2021-03-19T02:53:59-07:00",
     "tariffId": "OFN55D8",
     "openingMeterRead": "6853",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "0361 881 5603",
     "gsi1Pk": "mpan#4098",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-04-23T14:15:25-07:00"
   },
   {
     "pk": "User#augue@lacusUt.net",
@@ -269,15 +269,15 @@
     "supplyStartDate": "2021-06-02T16:51:38-07:00",
     "address": "413 Non, St.",
     "addressPostcode": "BX8 2AM",
-    "addressState": "Argyllshire",
-    "addressCity": "Inveraray",
     "contractSignedDate": "2021-06-07T22:37:19-07:00",
     "tariffId": "WNV57H4",
     "openingMeterRead": "1712",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0500 109009",
     "gsi1Pk": "mpan#8345",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-06-02T16:51:38-07:00"
   },
   {
     "pk": "User#torquent@magnaSedeu.net",
@@ -289,15 +289,15 @@
     "supplyStartDate": "2021-05-24T14:49:31-07:00",
     "address": "530-1584 Aliquam Av.",
     "addressPostcode": "FH46 8KY",
-    "addressState": "AN",
-    "addressCity": "Carnoustie",
     "contractSignedDate": "2021-06-27T19:01:08-07:00",
     "tariffId": "LTZ88A0",
     "openingMeterRead": "4861",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "(0101) 458 1262",
     "gsi1Pk": "mpan#4139",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-05-24T14:49:31-07:00"
   },
   {
     "pk": "User#fermentum@porttitor.org",
@@ -309,15 +309,15 @@
     "supplyStartDate": "2021-04-17T08:15:25-07:00",
     "address": "7248 Nullam Road",
     "addressPostcode": "NI3 9YW",
-    "addressState": "Cumberland",
-    "addressCity": "Penrith",
     "contractSignedDate": "2021-03-13T21:42:32-08:00",
     "tariffId": "VTE72M1",
     "openingMeterRead": "2455",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "(023) 7150 7619",
     "gsi1Pk": "mpan#4971",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-04-17T08:15:25-07:00"
   },
   {
     "pk": "User#malesuada.malesuada.Integer@auctorodioa.ca",
@@ -329,15 +329,15 @@
     "supplyStartDate": "2021-01-16T03:27:38-08:00",
     "address": "P.O. Box 788, 2494 Sagittis Rd.",
     "addressPostcode": "FL4 2XE",
-    "addressState": "Kincardineshire",
-    "addressCity": "Inverbervie",
     "contractSignedDate": "2021-03-22T14:53:46-07:00",
     "tariffId": "FEF94P3",
     "openingMeterRead": "9175",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0381 961 4655",
     "gsi1Pk": "mpan#9645",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-01-16T03:27:38-08:00"
   },
   {
     "pk": "User#vulputate@litoratorquentper.co.uk",
@@ -349,15 +349,15 @@
     "supplyStartDate": "2021-03-24T22:47:52-07:00",
     "address": "P.O. Box 302, 9618 Nunc Av.",
     "addressPostcode": "I81 8ED",
-    "addressState": "WL",
-    "addressCity": "Linlithgow",
     "contractSignedDate": "2021-04-18T15:47:50-07:00",
     "tariffId": "AQW55M5",
     "openingMeterRead": "6732",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "0878 965 3944",
     "gsi1Pk": "mpan#4894",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-03-24T22:47:52-07:00"
   },
   {
     "pk": "User#turpis@enimCurabiturmassa.edu",
@@ -369,15 +369,15 @@
     "supplyStartDate": "2021-04-18T15:39:17-07:00",
     "address": "Ap #464-772 Sed St.",
     "addressPostcode": "SJ97 2AP",
-    "addressState": "GL",
-    "addressCity": "Bristol",
     "contractSignedDate": "2021-01-06T05:26:36-08:00",
     "tariffId": "GEN90K7",
     "openingMeterRead": "4482",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "070 6076 0749",
     "gsi1Pk": "mpan#6477",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-04-18T15:39:17-07:00"
   },
   {
     "pk": "User#erat.neque.non@nunc.org",
@@ -389,15 +389,15 @@
     "supplyStartDate": "2021-03-28T20:23:35-07:00",
     "address": "752-5403 Eu, St.",
     "addressPostcode": "W0 8EK",
-    "addressState": "Surrey",
-    "addressCity": "Guildford",
     "contractSignedDate": "2021-04-07T16:30:24-07:00",
     "tariffId": "GCJ19Z1",
     "openingMeterRead": "5592",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0800 878 1771",
     "gsi1Pk": "mpan#3916",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-03-28T20:23:35-07:00"
   },
   {
     "pk": "User#natoque.penatibus@enimEtiamgravida.co.uk",
@@ -409,15 +409,15 @@
     "supplyStartDate": "2021-03-27T16:12:20-07:00",
     "address": "Ap #688-4837 Metus Rd.",
     "addressPostcode": "MY0 7BQ",
-    "addressState": "Huntingdonshire",
-    "addressCity": "Ramsey",
     "contractSignedDate": "2021-03-02T08:36:36-08:00",
     "tariffId": "PNK28G7",
     "openingMeterRead": "8145",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "0800 766 9209",
     "gsi1Pk": "mpan#3580",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-03-27T16:12:20-07:00"
   },
   {
     "pk": "User#lorem@ipsumsodalespurus.net",
@@ -429,15 +429,15 @@
     "supplyStartDate": "2021-03-11T12:00:32-08:00",
     "address": "Ap #336-2901 Purus St.",
     "addressPostcode": "H2M 7NK",
-    "addressState": "DN",
-    "addressCity": "Helensburgh",
     "contractSignedDate": "2021-06-06T19:43:21-07:00",
     "tariffId": "XAB31L1",
     "openingMeterRead": "9692",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0335 271 0430",
     "gsi1Pk": "mpan#7308",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-03-11T12:00:32-08:00"
   },
   {
     "pk": "User#hendrerit.a.arcu@ametrisusDonec.edu",
@@ -449,15 +449,15 @@
     "supplyStartDate": "2021-01-31T06:08:57-08:00",
     "address": "Ap #979-2431 Gravida Av.",
     "addressPostcode": "U69 4RQ",
-    "addressState": "OX",
-    "addressCity": "Carterton",
     "contractSignedDate": "2021-05-21T02:18:46-07:00",
     "tariffId": "FKA97L6",
     "openingMeterRead": "1741",
     "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0366 299 7047",
     "gsi1Pk": "mpan#5537",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-01-31T06:08:57-08:00"
   },
   {
     "pk": "User#Suspendisse@Aliquam.org",
@@ -469,15 +469,15 @@
     "supplyStartDate": "2021-05-25T10:14:01-07:00",
     "address": "P.O. Box 792, 2042 Arcu Rd.",
     "addressPostcode": "ER2 4LM",
-    "addressState": "Buckinghamshire",
-    "addressCity": "High Wycombe",
     "contractSignedDate": "2021-03-19T16:41:38-07:00",
     "tariffId": "TBN46O6",
     "openingMeterRead": "9882",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0800 102400",
     "gsi1Pk": "mpan#7698",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-05-25T10:14:01-07:00"
   },
   {
     "pk": "User#imperdiet.ullamcorper.Duis@Aliquamgravidamauris.org",
@@ -489,15 +489,15 @@
     "supplyStartDate": "2021-05-13T19:16:33-07:00",
     "address": "Ap #248-5029 Urna. Road",
     "addressPostcode": "U8X 4BK",
-    "addressState": "Dorset",
-    "addressCity": "Weymouth",
     "contractSignedDate": "2021-04-22T18:44:57-07:00",
     "tariffId": "WCQ34R4",
     "openingMeterRead": "3297",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0800 052 6185",
     "gsi1Pk": "mpan#8337",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-05-13T19:16:33-07:00"
   },
   {
     "pk": "User#Cum@utpharetrased.ca",
@@ -509,15 +509,15 @@
     "supplyStartDate": "2021-03-13T11:56:40-08:00",
     "address": "386-4071 Quis Av.",
     "addressPostcode": "G6D 0MM",
-    "addressState": "Hertfordshire",
-    "addressCity": "Hemel Hempstead",
     "contractSignedDate": "2021-01-04T22:42:07-08:00",
     "tariffId": "RND46V9",
     "openingMeterRead": "9224",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "(01882) 329063",
     "gsi1Pk": "mpan#5056",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-03-13T11:56:40-08:00"
   },
   {
     "pk": "User#eros@natoquepenatibuset.com",
@@ -529,15 +529,15 @@
     "supplyStartDate": "2021-04-12T19:57:05-07:00",
     "address": "1804 Id Rd.",
     "addressPostcode": "Y2I 3QW",
-    "addressState": "Wiltshire",
-    "addressCity": "Trowbridge",
     "contractSignedDate": "2021-01-01T13:01:46-08:00",
     "tariffId": "KMM48Y8",
     "openingMeterRead": "7322",
     "acquisitionSource": "googleSearch",
     "phoneNumber": "(01552) 65504",
     "gsi1Pk": "mpan#8778",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-04-12T19:57:05-07:00"
   },
   {
     "pk": "User#cursus.in@etmagnisdis.co.uk",
@@ -549,15 +549,15 @@
     "supplyStartDate": "2021-05-30T11:18:24-07:00",
     "address": "P.O. Box 297, 2525 Purus Road",
     "addressPostcode": "NT13 9AM",
-    "addressState": "WI",
-    "addressCity": "Stranraer",
     "contractSignedDate": "2021-05-15T13:31:05-07:00",
     "tariffId": "WJT31J8",
     "openingMeterRead": "2967",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(01928) 04294",
     "gsi1Pk": "mpan#4941",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-05-30T11:18:24-07:00"
   },
   {
     "pk": "User#nunc.interdum@odioEtiamligula.edu",
@@ -569,15 +569,15 @@
     "supplyStartDate": "2021-01-20T06:52:49-08:00",
     "address": "P.O. Box 603, 2445 Vivamus Road",
     "addressPostcode": "M9D 7CJ",
-    "addressState": "GL",
-    "addressCity": "Tewkesbury",
     "contractSignedDate": "2021-02-03T19:36:54-08:00",
     "tariffId": "FCU84D6",
     "openingMeterRead": "7817",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "07624 165229",
     "gsi1Pk": "mpan#1119",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-01-20T06:52:49-08:00"
   },
   {
     "pk": "User#dapibus@arcu.co.uk",
@@ -589,15 +589,15 @@
     "supplyStartDate": "2021-06-15T07:42:08-07:00",
     "address": "9567 Gravida. Avenue",
     "addressPostcode": "XN4 4RP",
-    "addressState": "WA",
-    "addressCity": "Rugby",
     "contractSignedDate": "2021-02-26T08:06:58-08:00",
     "tariffId": "KPG06K2",
     "openingMeterRead": "9945",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(0112) 783 4346",
     "gsi1Pk": "mpan#6761",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-06-15T07:42:08-07:00"
   },
   {
     "pk": "User#sodales.nisi@dictum.edu",
@@ -609,15 +609,15 @@
     "supplyStartDate": "2021-06-09T03:39:52-07:00",
     "address": "3739 Fusce St.",
     "addressPostcode": "LH7 7PE",
-    "addressState": "Merionethshire",
-    "addressCity": "Dolgellau",
     "contractSignedDate": "2021-03-02T23:58:56-08:00",
     "tariffId": "RMR24Z7",
     "openingMeterRead": "7622",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "07561 000060",
     "gsi1Pk": "mpan#5152",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-06-09T03:39:52-07:00"
   },
   {
     "pk": "User#dis.parturient.montes@semperNam.co.uk",
@@ -629,15 +629,15 @@
     "supplyStartDate": "2021-06-25T17:48:24-07:00",
     "address": "Ap #322-1307 Accumsan St.",
     "addressPostcode": "LB0 7JD",
-    "addressState": "BE",
-    "addressCity": "Eyemouth",
     "contractSignedDate": "2021-06-11T16:49:33-07:00",
     "tariffId": "ZFB29Y3",
     "openingMeterRead": "8806",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0916 521 6758",
     "gsi1Pk": "mpan#2936",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-06-25T17:48:24-07:00"
   },
   {
     "pk": "User#tortor.dictum.eu@ametmassa.edu",
@@ -649,15 +649,15 @@
     "supplyStartDate": "2021-03-28T18:36:41-07:00",
     "address": "P.O. Box 172, 6902 Enim. Rd.",
     "addressPostcode": "H9T 7LC",
-    "addressState": "ST",
-    "addressCity": "Stoke-on-Trent",
     "contractSignedDate": "2021-05-30T21:15:01-07:00",
     "tariffId": "KOW36Z3",
     "openingMeterRead": "9547",
     "acquisitionSource": "callCenter",
     "phoneNumber": "0800 1111",
     "gsi1Pk": "mpan#5211",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-03-28T18:36:41-07:00"
   },
   {
     "pk": "User#congue.elit.sed@enimcommodohendrerit.net",
@@ -669,15 +669,15 @@
     "supplyStartDate": "2021-03-19T22:23:32-07:00",
     "address": "Ap #472-5245 Luctus Street",
     "addressPostcode": "E75 3SA",
-    "addressState": "Worcestershire",
-    "addressCity": "Halesowen",
     "contractSignedDate": "2021-05-31T15:02:07-07:00",
     "tariffId": "XSM70P8",
     "openingMeterRead": "9826",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0845 46 45",
     "gsi1Pk": "mpan#2113",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-03-19T22:23:32-07:00"
   },
   {
     "pk": "User#egestas@iaculis.org",
@@ -689,15 +689,15 @@
     "supplyStartDate": "2021-06-05T18:07:56-07:00",
     "address": "3802 Volutpat. St.",
     "addressPostcode": "YM81 3HK",
-    "addressState": "Huntingdonshire",
-    "addressCity": "Huntingdon",
     "contractSignedDate": "2021-03-23T03:11:47-07:00",
     "tariffId": "FIM35C7",
     "openingMeterRead": "2150",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "(016977) 0976",
     "gsi1Pk": "mpan#1416",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-06-05T18:07:56-07:00"
   },
   {
     "pk": "User#ornare.egestas.ligula@egestaslaciniaSed.org",
@@ -709,15 +709,15 @@
     "supplyStartDate": "2021-05-05T02:57:59-07:00",
     "address": "8849 Sed Av.",
     "addressPostcode": "RL0W 0GC",
-    "addressState": "AG",
-    "addressCity": "Llangefni",
     "contractSignedDate": "2021-03-08T20:59:10-08:00",
     "tariffId": "KRI25D3",
     "openingMeterRead": "6456",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "055 9375 4041",
     "gsi1Pk": "mpan#1348",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-05-05T02:57:59-07:00"
   },
   {
     "pk": "User#vestibulum.lorem@duisemperet.org",
@@ -729,15 +729,15 @@
     "supplyStartDate": "2021-03-03T11:58:41-08:00",
     "address": "4518 Egestas Road",
     "addressPostcode": "FH91 1ID",
-    "addressState": "CU",
-    "addressCity": "Carlisle",
     "contractSignedDate": "2021-01-03T19:33:54-08:00",
     "tariffId": "PZS27S7",
     "openingMeterRead": "2069",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "(0111) 441 0203",
     "gsi1Pk": "mpan#7101",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-03-03T11:58:41-08:00"
   },
   {
     "pk": "User#dapibus.quam@risusNullaeget.net",
@@ -749,15 +749,15 @@
     "supplyStartDate": "2021-03-09T01:33:01-08:00",
     "address": "1914 Elit. St.",
     "addressPostcode": "N2G 0WY",
-    "addressState": "ST",
-    "addressCity": "Kilsyth",
     "contractSignedDate": "2021-04-24T21:25:59-07:00",
     "tariffId": "WKX89G0",
     "openingMeterRead": "3222",
     "acquisitionSource": "googleSearch",
     "phoneNumber": "(016977) 3997",
     "gsi1Pk": "mpan#8410",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-03-09T01:33:01-08:00"
   },
   {
     "pk": "User#nunc.risus.varius@Aliquamauctor.com",
@@ -769,15 +769,15 @@
     "supplyStartDate": "2021-06-19T10:33:17-07:00",
     "address": "290-7660 Donec St.",
     "addressPostcode": "H2 9RC",
-    "addressState": "SH",
-    "addressCity": "Lerwick",
     "contractSignedDate": "2021-03-16T09:39:06-07:00",
     "tariffId": "TWP69B9",
     "openingMeterRead": "8926",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "055 9477 5784",
     "gsi1Pk": "mpan#3904",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-06-19T10:33:17-07:00"
   },
   {
     "pk": "User#Curabitur.ut.odio@tempus.org",
@@ -789,15 +789,15 @@
     "supplyStartDate": "2021-06-16T03:00:57-07:00",
     "address": "P.O. Box 822, 506 Libero St.",
     "addressPostcode": "RA6M 8YO",
-    "addressState": "MO",
-    "addressCity": "Cwmbran",
     "contractSignedDate": "2021-03-22T16:27:09-07:00",
     "tariffId": "WEP51E2",
     "openingMeterRead": "1665",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "(016977) 6607",
     "gsi1Pk": "mpan#2924",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-06-16T03:00:57-07:00"
   },
   {
     "pk": "User#adipiscing.Mauris.molestie@acfacilisisfacilisis.org",
@@ -809,15 +809,15 @@
     "supplyStartDate": "2021-06-01T07:57:44-07:00",
     "address": "Ap #186-8400 Et Rd.",
     "addressPostcode": "FL2R 4CM",
-    "addressState": "ST",
-    "addressCity": "Grangemouth",
     "contractSignedDate": "2021-03-26T17:09:36-07:00",
     "tariffId": "WKB52R8",
     "openingMeterRead": "8963",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "(0117) 271 4933",
     "gsi1Pk": "mpan#1499",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-06-01T07:57:44-07:00"
   },
   {
     "pk": "User#ac.fermentum@lobortisquama.org",
@@ -829,15 +829,15 @@
     "supplyStartDate": "2021-01-08T06:52:08-08:00",
     "address": "P.O. Box 481, 1142 Et St.",
     "addressPostcode": "V7E 3OT",
-    "addressState": "Buteshire",
-    "addressCity": "Brodick",
     "contractSignedDate": "2021-03-31T03:45:59-07:00",
     "tariffId": "FHL38T0",
     "openingMeterRead": "6748",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0800 331663",
     "gsi1Pk": "mpan#6291",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-01-08T06:52:08-08:00"
   },
   {
     "pk": "User#pharetra@utsem.edu",
@@ -849,15 +849,15 @@
     "supplyStartDate": "2021-05-09T03:04:27-07:00",
     "address": "P.O. Box 660, 8997 Semper Av.",
     "addressPostcode": "K3 8OK",
-    "addressState": "Glamorgan",
-    "addressCity": "Barry",
     "contractSignedDate": "2021-02-04T02:05:12-08:00",
     "tariffId": "ABY60A6",
     "openingMeterRead": "7973",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "070 7247 0653",
     "gsi1Pk": "mpan#2935",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-05-09T03:04:27-07:00"
   },
   {
     "pk": "User#Pellentesque.ultricies.dignissim@acorci.com",
@@ -869,15 +869,15 @@
     "supplyStartDate": "2021-03-16T10:21:50-07:00",
     "address": "855-7770 Commodo St.",
     "addressPostcode": "IB40 3GY",
-    "addressState": "SE",
-    "addressCity": "Selkirk",
     "contractSignedDate": "2021-04-11T15:08:28-07:00",
     "tariffId": "QCV64A2",
     "openingMeterRead": "3711",
     "acquisitionSource": "callCenter",
     "phoneNumber": "0829 734 7185",
     "gsi1Pk": "mpan#9390",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-03-16T10:21:50-07:00"
   },
   {
     "pk": "User#velit.Sed@quamCurabitur.net",
@@ -889,15 +889,15 @@
     "supplyStartDate": "2021-06-08T06:16:23-07:00",
     "address": "4815 Ut Street",
     "addressPostcode": "KT46 6GX",
-    "addressState": "Dumfriesshire",
-    "addressCity": "Sanquhar",
     "contractSignedDate": "2021-02-01T01:51:36-08:00",
     "tariffId": "GHQ04G2",
     "openingMeterRead": "5707",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "(016977) 0242",
     "gsi1Pk": "mpan#9807",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-06-08T06:16:23-07:00"
   },
   {
     "pk": "User#quam.Curabitur@semmollisdui.ca",
@@ -909,15 +909,15 @@
     "supplyStartDate": "2021-05-21T09:12:51-07:00",
     "address": "687-9147 Dolor Rd.",
     "addressPostcode": "KE84 3WI",
-    "addressState": "Cornwall",
-    "addressCity": "Penzance",
     "contractSignedDate": "2021-01-21T04:21:58-08:00",
     "tariffId": "GMP48H3",
     "openingMeterRead": "9008",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "(022) 8373 1390",
     "gsi1Pk": "mpan#2063",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-05-21T09:12:51-07:00"
   },
   {
     "pk": "User#natoque.penatibus.et@Phasellusornare.co.uk",
@@ -929,15 +929,15 @@
     "supplyStartDate": "2021-06-19T19:38:44-07:00",
     "address": "636-3267 Ornare Rd.",
     "addressPostcode": "X6K 4VP",
-    "addressState": "Shropshire",
-    "addressCity": "Oswestry",
     "contractSignedDate": "2021-05-21T23:45:13-07:00",
     "tariffId": "ZWS28W3",
     "openingMeterRead": "7045",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "055 1595 7223",
     "gsi1Pk": "mpan#6005",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-06-19T19:38:44-07:00"
   },
   {
     "pk": "User#luctus.et@idantedictum.org",
@@ -949,15 +949,15 @@
     "supplyStartDate": "2021-06-06T11:33:34-07:00",
     "address": "739-6433 Cras Ave",
     "addressPostcode": "JT06 9NR",
-    "addressState": "AY",
-    "addressCity": "Kilmarnock",
     "contractSignedDate": "2021-05-09T16:03:57-07:00",
     "tariffId": "RGH16W6",
     "openingMeterRead": "6857",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "0883 550 2834",
     "gsi1Pk": "mpan#5546",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-06-06T11:33:34-07:00"
   },
   {
     "pk": "User#nec.euismod.in@natoquepenatibus.ca",
@@ -969,15 +969,15 @@
     "supplyStartDate": "2021-02-01T08:44:59-08:00",
     "address": "Ap #629-3800 Blandit Road",
     "addressPostcode": "FJ89 0OS",
-    "addressState": "Pembrokeshire",
-    "addressCity": "Tenby",
     "contractSignedDate": "2021-06-21T05:54:04-07:00",
     "tariffId": "NAY92S1",
     "openingMeterRead": "8134",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "070 7439 4905",
     "gsi1Pk": "mpan#4002",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-02-01T08:44:59-08:00"
   },
   {
     "pk": "User#rutrum.eu.ultrices@ProinultricesDuis.ca",
@@ -989,15 +989,15 @@
     "supplyStartDate": "2021-04-14T19:57:35-07:00",
     "address": "151-3981 Vivamus Rd.",
     "addressPostcode": "UG8 0XD",
-    "addressState": "Hampshire",
-    "addressCity": "Southampton",
     "contractSignedDate": "2021-03-27T21:58:11-07:00",
     "tariffId": "FVX60H5",
     "openingMeterRead": "1303",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "07624 068591",
     "gsi1Pk": "mpan#5628",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-04-14T19:57:35-07:00"
   },
   {
     "pk": "User#Donec.sollicitudin.adipiscing@In.net",
@@ -1009,15 +1009,15 @@
     "supplyStartDate": "2021-06-29T18:23:39-07:00",
     "address": "P.O. Box 724, 6661 Feugiat. Rd.",
     "addressPostcode": "P4T 3VU",
-    "addressState": "PE",
-    "addressCity": "Kincardine",
     "contractSignedDate": "2021-04-20T04:01:15-07:00",
     "tariffId": "PJK49H5",
     "openingMeterRead": "5743",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "(01000) 860690",
     "gsi1Pk": "mpan#3817",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-06-29T18:23:39-07:00"
   },
   {
     "pk": "User#porttitor.eros@Naminterdum.org",
@@ -1029,15 +1029,15 @@
     "supplyStartDate": "2021-05-09T06:53:14-07:00",
     "address": "2197 Odio. Road",
     "addressPostcode": "LX8 9LK",
-    "addressState": "Aberdeenshire",
-    "addressCity": "Fraserburgh",
     "contractSignedDate": "2021-06-24T17:16:48-07:00",
     "tariffId": "LYK82I2",
     "openingMeterRead": "1147",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0845 46 47",
     "gsi1Pk": "mpan#2532",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-05-09T06:53:14-07:00"
   },
   {
     "pk": "User#penatibus.et@Maurisvestibulumneque.edu",
@@ -1049,15 +1049,15 @@
     "supplyStartDate": "2021-03-19T05:04:42-07:00",
     "address": "P.O. Box 375, 6119 Eget, Ave",
     "addressPostcode": "J7X 0DK",
-    "addressState": "Kincardineshire",
-    "addressCity": "Stonehaven",
     "contractSignedDate": "2021-04-18T04:43:57-07:00",
     "tariffId": "TFL93H1",
     "openingMeterRead": "9190",
     "acquisitionSource": "facebookAds",
     "phoneNumber": "(01871) 94173",
     "gsi1Pk": "mpan#3344",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-03-19T05:04:42-07:00"
   },
   {
     "pk": "User#Mauris@elit.ca",
@@ -1069,15 +1069,15 @@
     "supplyStartDate": "2021-06-16T10:00:46-07:00",
     "address": "202-5155 Augue Av.",
     "addressPostcode": "PW35 4SQ",
-    "addressState": "Buteshire",
-    "addressCity": "Rothesay",
     "contractSignedDate": "2021-06-10T07:52:19-07:00",
     "tariffId": "RTZ61F4",
     "openingMeterRead": "8145",
     "acquisitionSource": "googleAds",
     "phoneNumber": "076 6804 8499",
     "gsi1Pk": "mpan#8176",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-06-16T10:00:46-07:00"
   },
   {
     "pk": "User#Curabitur@tellus.org",
@@ -1089,15 +1089,15 @@
     "supplyStartDate": "2021-06-15T07:35:03-07:00",
     "address": "P.O. Box 162, 7996 Et, St.",
     "addressPostcode": "PO6E 6QE",
-    "addressState": "RF",
-    "addressCity": "Renfrew",
     "contractSignedDate": "2021-01-03T08:03:10-08:00",
     "tariffId": "TRF14G6",
     "openingMeterRead": "4006",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "056 1364 9858",
     "gsi1Pk": "mpan#9898",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-06-15T07:35:03-07:00"
   },
   {
     "pk": "User#a@malesuadaiderat.co.uk",
@@ -1109,15 +1109,15 @@
     "supplyStartDate": "2021-03-15T00:19:15-07:00",
     "address": "Ap #261-4225 Commodo Rd.",
     "addressPostcode": "F37 3QL",
-    "addressState": "Merionethshire",
-    "addressCity": "Harlech",
     "contractSignedDate": "2021-01-21T15:49:12-08:00",
     "tariffId": "PRK76J5",
     "openingMeterRead": "1182",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "07624 147340",
     "gsi1Pk": "mpan#6381",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-03-15T00:19:15-07:00"
   },
   {
     "pk": "User#aliquet@cursus.com",
@@ -1129,15 +1129,15 @@
     "supplyStartDate": "2021-06-20T08:34:39-07:00",
     "address": "P.O. Box 958, 6775 Nulla Road",
     "addressPostcode": "PC6A 0RU",
-    "addressState": "Wiltshire",
-    "addressCity": "Salisbury",
     "contractSignedDate": "2021-01-26T15:56:08-08:00",
     "tariffId": "MVM86P5",
     "openingMeterRead": "5546",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(016977) 8161",
     "gsi1Pk": "mpan#5088",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-06-20T08:34:39-07:00"
   },
   {
     "pk": "User#viverra.Maecenas@velit.edu",
@@ -1149,15 +1149,15 @@
     "supplyStartDate": "2021-06-18T20:54:38-07:00",
     "address": "Ap #452-5923 Condimentum St.",
     "addressPostcode": "W6 7DB",
-    "addressState": "MG",
-    "addressCity": "Newtown",
     "contractSignedDate": "2021-03-11T16:00:15-08:00",
     "tariffId": "SSK69K1",
     "openingMeterRead": "2327",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0845 46 42",
     "gsi1Pk": "mpan#3549",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-06-18T20:54:38-07:00"
   },
   {
     "pk": "User#lorem.ut@Suspendisse.co.uk",
@@ -1169,15 +1169,15 @@
     "supplyStartDate": "2021-04-16T05:45:01-07:00",
     "address": "965-4211 Feugiat Avenue",
     "addressPostcode": "N1W 2DY",
-    "addressState": "WI",
-    "addressCity": "Newton Stewart",
     "contractSignedDate": "2021-06-26T03:06:04-07:00",
     "tariffId": "ZQE07Q1",
     "openingMeterRead": "7859",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0800 786 6058",
     "gsi1Pk": "mpan#1738",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-04-16T05:45:01-07:00"
   },
   {
     "pk": "User#vitae.semper.egestas@egestasFuscealiquet.ca",
@@ -1189,15 +1189,15 @@
     "supplyStartDate": "2021-01-07T06:24:19-08:00",
     "address": "P.O. Box 530, 2114 Tellus Road",
     "addressPostcode": "KJ85 7JY",
-    "addressState": "BR",
-    "addressCity": "Brecon",
     "contractSignedDate": "2021-06-21T13:00:53-07:00",
     "tariffId": "PCE77X4",
     "openingMeterRead": "7157",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "076 5701 0190",
     "gsi1Pk": "mpan#4509",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-01-07T06:24:19-08:00"
   },
   {
     "pk": "User#Mauris.molestie.pharetra@hendreritidante.com",
@@ -1209,15 +1209,15 @@
     "supplyStartDate": "2021-01-12T20:48:47-08:00",
     "address": "3353 Eu, St.",
     "addressPostcode": "AS5W 1AB",
-    "addressState": "Leicestershire",
-    "addressCity": "Leicester",
     "contractSignedDate": "2021-06-05T05:48:49-07:00",
     "tariffId": "TCL63V3",
     "openingMeterRead": "7875",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "(011551) 40641",
     "gsi1Pk": "mpan#5953",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-01-12T20:48:47-08:00"
   },
   {
     "pk": "User#risus.Donec@sed.edu",
@@ -1229,15 +1229,15 @@
     "supplyStartDate": "2021-04-15T01:22:42-07:00",
     "address": "P.O. Box 967, 9070 Dignissim Av.",
     "addressPostcode": "IC6R 5ZQ",
-    "addressState": "WA",
-    "addressCity": "Nuneaton",
     "contractSignedDate": "2021-01-09T19:45:32-08:00",
     "tariffId": "LDP67U9",
     "openingMeterRead": "4252",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "(01750) 450853",
     "gsi1Pk": "mpan#9283",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-04-15T01:22:42-07:00"
   },
   {
     "pk": "User#Aenean.massa.Integer@Pellentesqueultriciesdignissim.com",
@@ -1249,15 +1249,15 @@
     "supplyStartDate": "2021-06-21T04:02:28-07:00",
     "address": "Ap #897-6896 Orci. Av.",
     "addressPostcode": "YG9S 4LN",
-    "addressState": "Derbyshire",
-    "addressCity": "Matlock",
     "contractSignedDate": "2021-06-26T08:52:13-07:00",
     "tariffId": "KXG32Q6",
     "openingMeterRead": "2938",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "07624 919844",
     "gsi1Pk": "mpan#2867",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-06-21T04:02:28-07:00"
   },
   {
     "pk": "User#sem.mollis@consectetuermaurisid.edu",
@@ -1269,15 +1269,15 @@
     "supplyStartDate": "2021-04-17T03:14:22-07:00",
     "address": "Ap #519-394 Ante St.",
     "addressPostcode": "NY6 0BR",
-    "addressState": "AG",
-    "addressCity": "Holyhead",
     "contractSignedDate": "2021-03-14T01:04:39-08:00",
     "tariffId": "QLL60Y3",
     "openingMeterRead": "2124",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "(0113) 884 6429",
     "gsi1Pk": "mpan#1974",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-04-17T03:14:22-07:00"
   },
   {
     "pk": "User#Morbi.sit@Duiscursusdiam.net",
@@ -1289,15 +1289,15 @@
     "supplyStartDate": "2021-04-20T03:36:14-07:00",
     "address": "Ap #448-9004 Tempus Rd.",
     "addressPostcode": "R1K 5FC",
-    "addressState": "HR",
-    "addressCity": "Stevenage",
     "contractSignedDate": "2021-02-25T07:42:04-08:00",
     "tariffId": "DKK35X3",
     "openingMeterRead": "3961",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "0800 302 0778",
     "gsi1Pk": "mpan#6997",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-04-20T03:36:14-07:00"
   },
   {
     "pk": "User#dolor@rhoncus.org",
@@ -1309,15 +1309,15 @@
     "supplyStartDate": "2021-03-03T04:33:59-08:00",
     "address": "9049 Et St.",
     "addressPostcode": "T3 1GR",
-    "addressState": "WE",
-    "addressCity": "Appleby",
     "contractSignedDate": "2021-03-14T06:19:41-07:00",
     "tariffId": "IGC16M8",
     "openingMeterRead": "2289",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "(01248) 43111",
     "gsi1Pk": "mpan#1188",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-03-03T04:33:59-08:00"
   },
   {
     "pk": "User#Maecenas@Namligula.org",
@@ -1329,15 +1329,15 @@
     "supplyStartDate": "2021-02-04T13:36:53-08:00",
     "address": "P.O. Box 362, 4795 Tincidunt St.",
     "addressPostcode": "TL1Y 8BE",
-    "addressState": "Somerset",
-    "addressCity": "Wells",
     "contractSignedDate": "2021-01-06T00:09:27-08:00",
     "tariffId": "ZHT54E1",
     "openingMeterRead": "3821",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "(0112) 595 6587",
     "gsi1Pk": "mpan#1128",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-02-04T13:36:53-08:00"
   },
   {
     "pk": "User#inceptos.hymenaeos@arcuAliquam.org",
@@ -1349,15 +1349,15 @@
     "supplyStartDate": "2021-04-09T15:27:51-07:00",
     "address": "Ap #974-8644 Blandit Street",
     "addressPostcode": "K1 0VH",
-    "addressState": "Kincardineshire",
-    "addressCity": "Inverbervie",
     "contractSignedDate": "2021-02-19T07:56:53-08:00",
     "tariffId": "GIB95G0",
     "openingMeterRead": "2107",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "(016977) 4056",
     "gsi1Pk": "mpan#4594",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-04-09T15:27:51-07:00"
   },
   {
     "pk": "User#arcu@placeratvelit.com",
@@ -1369,15 +1369,15 @@
     "supplyStartDate": "2021-06-03T15:39:04-07:00",
     "address": "P.O. Box 415, 1713 Mi. Road",
     "addressPostcode": "X28 0HW",
-    "addressState": "Kinross-shire",
-    "addressCity": "Kinross",
     "contractSignedDate": "2021-03-26T01:30:04-07:00",
     "tariffId": "VDR95G8",
     "openingMeterRead": "6067",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "0800 622 5242",
     "gsi1Pk": "mpan#9588",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-06-03T15:39:04-07:00"
   },
   {
     "pk": "User#nunc@nuncrisusvarius.co.uk",
@@ -1389,15 +1389,15 @@
     "supplyStartDate": "2021-06-13T00:44:14-07:00",
     "address": "6310 Lorem Road",
     "addressPostcode": "O4 7HW",
-    "addressState": "NT",
-    "addressCity": "Wellingborough",
     "contractSignedDate": "2021-04-29T07:51:37-07:00",
     "tariffId": "WFQ87Z8",
     "openingMeterRead": "6518",
     "acquisitionSource": "facebookAds",
     "phoneNumber": "0800 193 0707",
     "gsi1Pk": "mpan#2790",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstMonth",
+    "gsi2Sk": "2021-06-13T00:44:14-07:00"
   },
   {
     "pk": "User#varius@eu.edu",
@@ -1409,15 +1409,15 @@
     "supplyStartDate": "2021-01-30T11:57:44-08:00",
     "address": "8062 Enim. Av.",
     "addressPostcode": "F2U 6IK",
-    "addressState": "CH",
-    "addressCity": "Birkenhead",
     "contractSignedDate": "2021-04-06T02:48:47-07:00",
     "tariffId": "QAB77F0",
     "openingMeterRead": "7445",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "0845 46 49",
     "gsi1Pk": "mpan#2967",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-01-30T11:57:44-08:00"
   },
   {
     "pk": "User#lobortis.risus@idmagna.ca",
@@ -1429,15 +1429,15 @@
     "supplyStartDate": "2021-04-23T11:22:09-07:00",
     "address": "P.O. Box 334, 1275 Vivamus Street",
     "addressPostcode": "A8A 6BF",
-    "addressState": "Perthshire",
-    "addressCity": "Callander",
     "contractSignedDate": "2021-01-19T07:36:16-08:00",
     "tariffId": "FCR41H6",
     "openingMeterRead": "1942",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(022) 5724 5441",
     "gsi1Pk": "mpan#8374",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-04-23T11:22:09-07:00"
   },
   {
     "pk": "User#cursus@dignissim.org",
@@ -1449,15 +1449,15 @@
     "supplyStartDate": "2021-04-05T07:33:09-07:00",
     "address": "4194 Sapien. Ave",
     "addressPostcode": "ZZ8 9VK",
-    "addressState": "Worcestershire",
-    "addressCity": "Stourbridge",
     "contractSignedDate": "2021-04-26T00:31:09-07:00",
     "tariffId": "SHM91H2",
     "openingMeterRead": "3544",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0924 809 9990",
     "gsi1Pk": "mpan#7268",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#churnedUsers",
+    "gsi2Sk": "2021-04-05T07:33:09-07:00"
   },
   {
     "pk": "User#Donec.nibh.enim@placerataugueSed.com",
@@ -1469,15 +1469,15 @@
     "supplyStartDate": "2021-04-03T23:57:44-07:00",
     "address": "P.O. Box 132, 2238 Urna. St.",
     "addressPostcode": "O5 4JM",
-    "addressState": "CH",
-    "addressCity": "Wallasey",
     "contractSignedDate": "2021-01-09T08:07:22-08:00",
     "tariffId": "QJE55T4",
     "openingMeterRead": "9869",
     "acquisitionSource": "facebookAds",
     "phoneNumber": "(014898) 02626",
     "gsi1Pk": "mpan#6536",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-04-03T23:57:44-07:00"
   },
   {
     "pk": "User#suscipit@felisegetvarius.org",
@@ -1489,15 +1489,15 @@
     "supplyStartDate": "2021-05-04T20:10:41-07:00",
     "address": "P.O. Box 708, 7113 Ut St.",
     "addressPostcode": "N59 9MW",
-    "addressState": "Clackmannanshire",
-    "addressCity": "Tillicoultry",
     "contractSignedDate": "2021-06-18T01:04:50-07:00",
     "tariffId": "UCK60H8",
     "openingMeterRead": "9835",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0961 655 3344",
     "gsi1Pk": "mpan#2628",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-05-04T20:10:41-07:00"
   },
   {
     "pk": "User#diam.luctus.lobortis@malesuada.ca",
@@ -1509,15 +1509,15 @@
     "supplyStartDate": "2021-03-11T19:40:52-08:00",
     "address": "Ap #464-1688 Nibh. Street",
     "addressPostcode": "T3 6ZA",
-    "addressState": "Stirlingshire",
-    "addressCity": "Stirling",
     "contractSignedDate": "2021-03-15T12:52:43-07:00",
     "tariffId": "CXZ82K7",
     "openingMeterRead": "4438",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "056 6451 0392",
     "gsi1Pk": "mpan#5730",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-03-11T19:40:52-08:00"
   },
   {
     "pk": "User#sollicitudin.orci@ametorci.co.uk",
@@ -1529,15 +1529,15 @@
     "supplyStartDate": "2021-04-28T18:18:46-07:00",
     "address": "464-2232 Nascetur Ave",
     "addressPostcode": "DR2B 3IV",
-    "addressState": "FI",
-    "addressCity": "Glenrothes",
     "contractSignedDate": "2021-06-10T03:38:52-07:00",
     "tariffId": "GMH93M2",
     "openingMeterRead": "9669",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0892 017 9690",
     "gsi1Pk": "mpan#3007",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-04-28T18:18:46-07:00"
   },
   {
     "pk": "User#egestas@dapibus.ca",
@@ -1549,15 +1549,15 @@
     "supplyStartDate": "2021-03-08T10:16:59-08:00",
     "address": "P.O. Box 257, 6975 Cum St.",
     "addressPostcode": "PO7 7TI",
-    "addressState": "Nairnshire",
-    "addressCity": "Auldearn",
     "contractSignedDate": "2021-03-16T23:47:41-07:00",
     "tariffId": "PEO47C9",
     "openingMeterRead": "8040",
     "acquisitionSource": "googleAds",
     "phoneNumber": "070 6931 8678",
     "gsi1Pk": "mpan#8763",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-03-08T10:16:59-08:00"
   },
   {
     "pk": "User#sem.Pellentesque@ametrisusDonec.com",
@@ -1569,15 +1569,15 @@
     "supplyStartDate": "2021-02-05T13:57:52-08:00",
     "address": "2597 Nunc St.",
     "addressPostcode": "P89 3QV",
-    "addressState": "Westmorland",
-    "addressCity": "Appleby",
     "contractSignedDate": "2021-02-11T03:30:04-08:00",
     "tariffId": "GXR60I0",
     "openingMeterRead": "7364",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "(0141) 941 7015",
     "gsi1Pk": "mpan#9533",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-02-05T13:57:52-08:00"
   },
   {
     "pk": "User#consectetuer@lectusconvallisest.org",
@@ -1589,15 +1589,15 @@
     "supplyStartDate": "2021-01-23T06:59:30-08:00",
     "address": "P.O. Box 534, 8347 Non St.",
     "addressPostcode": "F2 2PC",
-    "addressState": "Sussex",
-    "addressCity": "Crawley",
     "contractSignedDate": "2021-06-17T16:05:47-07:00",
     "tariffId": "PBR91F5",
     "openingMeterRead": "7598",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "(0111) 558 7201",
     "gsi1Pk": "mpan#8701",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-01-23T06:59:30-08:00"
   },
   {
     "pk": "User#nibh.Donec.est@Etiam.ca",
@@ -1609,15 +1609,15 @@
     "supplyStartDate": "2021-03-23T17:43:07-07:00",
     "address": "753-1713 Suspendisse Ave",
     "addressPostcode": "HA0C 1IP",
-    "addressState": "YK",
-    "addressCity": "Northallerton",
     "contractSignedDate": "2021-03-23T23:27:35-07:00",
     "tariffId": "LGY80P6",
     "openingMeterRead": "8593",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "0800 202 7536",
     "gsi1Pk": "mpan#4227",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-03-23T17:43:07-07:00"
   },
   {
     "pk": "User#felis.adipiscing@Maurisquisturpis.co.uk",
@@ -1629,15 +1629,15 @@
     "supplyStartDate": "2021-06-18T19:25:09-07:00",
     "address": "Ap #989-3833 Vestibulum Street",
     "addressPostcode": "G85 3HU",
-    "addressState": "CA",
-    "addressCity": "Wick",
     "contractSignedDate": "2021-03-25T18:55:53-07:00",
     "tariffId": "MAH04L7",
     "openingMeterRead": "2926",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "07624 533797",
     "gsi1Pk": "mpan#6279",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-06-18T19:25:09-07:00"
   },
   {
     "pk": "User#hendrerit.a.arcu@sitametfaucibus.com",
@@ -1649,15 +1649,15 @@
     "supplyStartDate": "2021-06-30T13:02:29-07:00",
     "address": "2585 Mollis St.",
     "addressPostcode": "P81 4MZ",
-    "addressState": "ST",
-    "addressCity": "Denny",
     "contractSignedDate": "2021-03-16T23:03:25-07:00",
     "tariffId": "EQC56X1",
     "openingMeterRead": "2180",
     "acquisitionSource": "facebookAds",
     "phoneNumber": "0800 466115",
     "gsi1Pk": "mpan#5767",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-06-30T13:02:29-07:00"
   },
   {
     "pk": "User#augue.ut@accumsanlaoreet.edu",
@@ -1669,15 +1669,15 @@
     "supplyStartDate": "2021-01-10T21:20:46-08:00",
     "address": "8435 Morbi St.",
     "addressPostcode": "N0S 4DE",
-    "addressState": "SS",
-    "addressCity": "Hastings",
     "contractSignedDate": "2021-04-14T19:03:19-07:00",
     "tariffId": "MGN16F5",
     "openingMeterRead": "8628",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "076 5503 0628",
     "gsi1Pk": "mpan#4239",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-01-10T21:20:46-08:00"
   },
   {
     "pk": "User#elit@nondapibusrutrum.edu",
@@ -1689,15 +1689,15 @@
     "supplyStartDate": "2021-03-30T02:00:09-07:00",
     "address": "Ap #974-6766 Arcu. Rd.",
     "addressPostcode": "DL8 4DX",
-    "addressState": "LI",
-    "addressCity": "Grimsby",
     "contractSignedDate": "2021-03-21T20:11:18-07:00",
     "tariffId": "DEN05L3",
     "openingMeterRead": "7820",
     "acquisitionSource": "googleSearch",
     "phoneNumber": "0800 827494",
     "gsi1Pk": "mpan#5698",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-03-30T02:00:09-07:00"
   },
   {
     "pk": "User#at@Donec.ca",
@@ -1709,15 +1709,15 @@
     "supplyStartDate": "2021-01-26T05:37:35-08:00",
     "address": "2870 Facilisis. Avenue",
     "addressPostcode": "L3 8SN",
-    "addressState": "Rutland",
-    "addressCity": "Uppingham. Cottesmore",
     "contractSignedDate": "2021-02-16T15:37:30-08:00",
     "tariffId": "UZU99N2",
     "openingMeterRead": "1661",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0814 619 1391",
     "gsi1Pk": "mpan#8703",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-01-26T05:37:35-08:00"
   },
   {
     "pk": "User#Mauris.eu.turpis@ultrices.net",
@@ -1729,15 +1729,15 @@
     "supplyStartDate": "2021-01-09T12:24:08-08:00",
     "address": "Ap #531-6226 Proin Road",
     "addressPostcode": "UY3 0CF",
-    "addressState": "Monmouthshire",
-    "addressCity": "Cwmbran",
     "contractSignedDate": "2021-06-21T00:26:31-07:00",
     "tariffId": "EXM32U8",
     "openingMeterRead": "8138",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "076 0051 0574",
     "gsi1Pk": "mpan#2563",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-01-09T12:24:08-08:00"
   },
   {
     "pk": "User#sagittis.placerat@Aliquam.net",
@@ -1749,15 +1749,15 @@
     "supplyStartDate": "2021-06-29T00:27:46-07:00",
     "address": "815-3907 Integer Street",
     "addressPostcode": "U9X 4CI",
-    "addressState": "ST",
-    "addressCity": "Bridge of Allan",
     "contractSignedDate": "2021-03-11T15:07:03-08:00",
     "tariffId": "PFS58K7",
     "openingMeterRead": "4875",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "(01265) 54790",
     "gsi1Pk": "mpan#7849",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-06-29T00:27:46-07:00"
   },
   {
     "pk": "User#Duis.elementum.dui@Inat.ca",
@@ -1769,15 +1769,15 @@
     "supplyStartDate": "2021-04-15T15:02:57-07:00",
     "address": "3303 Nunc Street",
     "addressPostcode": "JS5Z 2NJ",
-    "addressState": "BE",
-    "addressCity": "Coldstream",
     "contractSignedDate": "2021-02-15T02:03:08-08:00",
     "tariffId": "FSQ02P8",
     "openingMeterRead": "6409",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0800 907 2799",
     "gsi1Pk": "mpan#2939",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#awaitingStartOfService",
+    "gsi2Sk": "2021-04-15T15:02:57-07:00"
   },
   {
     "pk": "User#in.faucibus@nequepellentesquemassa.net",
@@ -1789,15 +1789,15 @@
     "supplyStartDate": "2021-02-15T17:20:20-08:00",
     "address": "9526 Nibh Rd.",
     "addressPostcode": "N57 5DF",
-    "addressState": "Lancashire",
-    "addressCity": "Barrow-in-Furness",
     "contractSignedDate": "2021-06-20T10:13:56-07:00",
     "tariffId": "PDL44L7",
     "openingMeterRead": "7027",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "(016977) 4075",
     "gsi1Pk": "mpan#7320",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-02-15T17:20:20-08:00"
   },
   {
     "pk": "User#tincidunt.congue.turpis@a.net",
@@ -1809,15 +1809,15 @@
     "supplyStartDate": "2021-06-28T12:16:18-07:00",
     "address": "P.O. Box 100, 7158 At, St.",
     "addressPostcode": "E7M 3UK",
-    "addressState": "Yorkshire",
-    "addressCity": "Whitby",
     "contractSignedDate": "2021-03-16T08:14:18-07:00",
     "tariffId": "RHZ03A6",
     "openingMeterRead": "3996",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0800 1111",
     "gsi1Pk": "mpan#4727",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#preRegistration",
+    "gsi2Sk": "2021-06-28T12:16:18-07:00"
   },
   {
     "pk": "User#Curabitur@Maurisvel.edu",
@@ -1829,15 +1829,15 @@
     "supplyStartDate": "2021-05-23T18:51:21-07:00",
     "address": "714-125 Mauris St.",
     "addressPostcode": "Q2 9YW",
-    "addressState": "Angus",
-    "addressCity": "Forfar",
     "contractSignedDate": "2021-06-23T16:54:12-07:00",
     "tariffId": "MWR67N2",
     "openingMeterRead": "3819",
-    "acquisitionSource": "callCenter",
+    "acquisitionSource": "facebookAds",
     "phoneNumber": "056 2594 4420",
     "gsi1Pk": "mpan#7980",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-05-23T18:51:21-07:00"
   },
   {
     "pk": "User#neque@consectetuermauris.co.uk",
@@ -1849,15 +1849,15 @@
     "supplyStartDate": "2021-01-13T02:00:08-08:00",
     "address": "1388 Dapibus St.",
     "addressPostcode": "DB40 8MK",
-    "addressState": "MO",
-    "addressCity": "Forres",
     "contractSignedDate": "2021-01-06T20:11:29-08:00",
     "tariffId": "INI05Z2",
     "openingMeterRead": "4459",
-    "acquisitionSource": "googleSearch",
+    "acquisitionSource": "offlineCampaign",
     "phoneNumber": "0830 132 3090",
     "gsi1Pk": "mpan#1225",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#retainedUsers",
+    "gsi2Sk": "2021-01-13T02:00:08-08:00"
   },
   {
     "pk": "User#ornare@elitAliquam.net",
@@ -1869,15 +1869,15 @@
     "supplyStartDate": "2021-06-27T19:56:47-07:00",
     "address": "Ap #112-4210 Ridiculus Street",
     "addressPostcode": "X7 9GC",
-    "addressState": "BR",
-    "addressCity": "Maidenhead",
     "contractSignedDate": "2021-02-12T20:17:11-08:00",
     "tariffId": "HCV27L5",
     "openingMeterRead": "8048",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "055 1462 3065",
     "gsi1Pk": "mpan#5465",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationSubmitted",
+    "gsi2Sk": "2021-06-27T19:56:47-07:00"
   },
   {
     "pk": "User#tristique.neque@egetmagna.edu",
@@ -1889,15 +1889,15 @@
     "supplyStartDate": "2021-03-31T01:01:12-07:00",
     "address": "860-7294 Rutrum Rd.",
     "addressPostcode": "BZ79 6HG",
-    "addressState": "Worcestershire",
-    "addressCity": "Evesham",
     "contractSignedDate": "2021-03-12T13:37:33-08:00",
     "tariffId": "JYG26I2",
     "openingMeterRead": "2164",
-    "acquisitionSource": "facebookAds",
+    "acquisitionSource": "googleAds",
     "phoneNumber": "07624 376075",
     "gsi1Pk": "mpan#7876",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-03-31T01:01:12-07:00"
   },
   {
     "pk": "User#gravida.nunc.sed@parturientmontesnascetur.net",
@@ -1909,15 +1909,15 @@
     "supplyStartDate": "2021-03-23T14:59:02-07:00",
     "address": "P.O. Box 204, 2279 Lacus Avenue",
     "addressPostcode": "TG92 9LM",
-    "addressState": "Yorkshire",
-    "addressCity": "Middlesbrough",
     "contractSignedDate": "2021-02-16T15:26:52-08:00",
     "tariffId": "GZI16B3",
     "openingMeterRead": "2986",
-    "acquisitionSource": "offlineCampaign",
+    "acquisitionSource": "callCenter",
     "phoneNumber": "(0116) 565 4386",
     "gsi1Pk": "mpan#4482",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#firstBillingWindow",
+    "gsi2Sk": "2021-03-23T14:59:02-07:00"
   },
   {
     "pk": "User#magna.malesuada.vel@Sedid.net",
@@ -1929,15 +1929,15 @@
     "supplyStartDate": "2021-01-22T05:08:57-08:00",
     "address": "2863 Nunc Rd.",
     "addressPostcode": "F8P 9ZH",
-    "addressState": "Northumberland",
-    "addressCity": "Hexham",
     "contractSignedDate": "2021-01-08T05:42:39-08:00",
     "tariffId": "RLA74Z5",
     "openingMeterRead": "1543",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0800 880889",
     "gsi1Pk": "mpan#5776",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-01-22T05:08:57-08:00"
   },
   {
     "pk": "User#at@ipsumdolorsit.net",
@@ -1949,15 +1949,15 @@
     "supplyStartDate": "2021-06-16T12:50:14-07:00",
     "address": "P.O. Box 272, 2754 Rutrum Rd.",
     "addressPostcode": "H9X 8UE",
-    "addressState": "Dumfriesshire",
-    "addressCity": "Langholm",
     "contractSignedDate": "2021-03-28T15:54:57-07:00",
     "tariffId": "JMV68H1",
     "openingMeterRead": "6207",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0845 46 40",
     "gsi1Pk": "mpan#3873",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#renewalWindow",
+    "gsi2Sk": "2021-06-16T12:50:14-07:00"
   },
   {
     "pk": "User#a@vehicula.ca",
@@ -1969,15 +1969,15 @@
     "supplyStartDate": "2021-06-04T19:34:59-07:00",
     "address": "592-2941 Vitae Rd.",
     "addressPostcode": "G45 4ZF",
-    "addressState": "East Lothian",
-    "addressCity": "Haddington",
     "contractSignedDate": "2021-06-28T02:10:28-07:00",
     "tariffId": "ESM33E5",
     "openingMeterRead": "7910",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "googleSearch",
     "phoneNumber": "056 8504 8830",
     "gsi1Pk": "mpan#3582",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#registrationRejected",
+    "gsi2Sk": "2021-06-04T19:34:59-07:00"
   },
   {
     "pk": "User#bibendum.ullamcorper.Duis@fermentummetus.net",
@@ -1989,14 +1989,14 @@
     "supplyStartDate": "2021-01-21T08:04:49-08:00",
     "address": "8999 Ipsum Street",
     "addressPostcode": "M7 2CC",
-    "addressState": "Berwickshire",
-    "addressCity": "Eyemouth",
     "contractSignedDate": "2021-03-08T20:33:38-08:00",
     "tariffId": "ZCW67F4",
     "openingMeterRead": "7693",
-    "acquisitionSource": "googleAds",
+    "acquisitionSource": "priceComparisonWebsite",
     "phoneNumber": "0808 960 5863",
     "gsi1Pk": "mpan#6095",
-    "gsi1Sk": "Static"
+    "gsi1Sk": "Static",
+    "gsi2Pk": "registrationStatus#inService",
+    "gsi2Sk": "2021-01-21T08:04:49-08:00"
   }
 ]

@@ -71,11 +71,13 @@ meterObj.map((key) => {
 var tempAcquisitionSource = [];
 acquisitionObj.map((key) => {
   Object.keys(key).map((eachKey) => {
-    if (eachKey === "acqisitionSource"){
+    if (eachKey === "acquisitionSource"){
       tempAcquisitionSource.push(key[eachKey])
     }
   })
 })
+
+console.log(tempAcquisitionSource);
 
 obj.map((key, idx) => { // appling array map function as the parsed json is in single array format, key represent every objects
   Object.keys(key).map((eachKey) => { //looping through every object, eachKey represent the key of {key-value} pair
@@ -87,11 +89,14 @@ obj.map((key, idx) => { // appling array map function as the parsed json is in s
       key[eachKey] = tempMeterType[idx]
     } else if (eachKey === "mpan"){
       key[eachKey] = tempMpan[idx]
-    } else if (eachKey === "acquisitionSource") {
-      key[eachKey] = tempAcquisitionSource[idx]      
+    } else if (eachKey === "acquisitionSource") {      
+      key[eachKey] = tempAcquisitionSource[idx]
+      console.log(tempAcquisitionSource[idx]);
     }
     key["gsi1Pk"] = "mpan#" + key["mpan"];
     key["gsi1Sk"] = "Static";
+    key["gsi2Pk"] = "registrationStatus#" + key["registrationStatus"]
+    key["gsi2Sk"] = key["supplyStartDate"]
   });
 });
 
